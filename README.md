@@ -1,15 +1,16 @@
 # Read & Convert
 
-**Read. Edit. Convert.** Everything local, offline and without an account — an Android document app that never lets your files leave the device.
+**Read. Edit. Convert.** Everything local, offline and without an account. An Android document app that never lets your files leave the device.
 
-Read & Convert is a full-featured editor and converter: it renders Markdown live, reads and writes seven formats and ships with its own PDF viewer. No ads, no permissions beyond your files, no network.
+Read & Convert is a full-featured editor and converter: it renders Markdown live, reads and writes seven formats and ships with its own PDF viewer. 
+No ads, no permissions beyond your files, no network.
 
 ## Screenshots
 
 |  |  |
 |---|---|
 | ![Markdown rendering](Project_Images/1_markdown-render.png) | ![Live editing](Project_Images/2_live-edit.png) |
-| Live Markdown rendering with TOC, diagrams, code and more. Right on the device. | Split view: type on the left, see the finished document on the right — no scroll loss, no white flash. |
+| Live Markdown rendering with TOC, diagrams, code and more. Right on the device. | Split view: type on the left, see the finished document on the right, no white flash. |
 | ![Format conversion](Project_Images/3_convert-formats.png) | ![PDF viewer](Project_Images/4_pdf-view.png) |
 | Built-in 7-format converter using a shared block intermediate format. | Layout-preserving PDF viewer that reconstructs headings, lists and tables. |
 
