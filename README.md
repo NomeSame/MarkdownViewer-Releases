@@ -1,43 +1,43 @@
 # Read & Convert
 
-**Lese. Bearbeite. Konvertiere.** Alles lokal, offline und ohne Konto — eine Markdown-App für Android, die deine Dokumente nie verlässt.
+**Read. Edit. Convert.** Everything local, offline and without an account — an Android document app that never lets your files leave the device.
 
-Read & Convert ist ein ausgewachsener Editor und Konverter: rendert Markdown live, liest und schreibt sieben Formate und enthält einen eigenen PDF-Viewer. Keine Werbung, keine Berechtigungen außerhalb deiner Dateien, kein Netzwerk.
+Read & Convert is a full-featured editor and converter: it renders Markdown live, reads and writes seven formats and ships with its own PDF viewer. No ads, no permissions beyond your files, no network.
 
 ## Screenshots
 
 |  |  |
 |---|---|
-| ![Markdown-Rendering](Project_Images/1_markdown-render.png) | ![Live-Editieren](Project_Images/2_live-edit.png) |
-| Live-Markdown-Rendering mit TOC, Diagrammen, Code & Co. Direkt auf dem Gerät. | Split-Ansicht: tippe links, sieh rechts das fertige Dokument — ohne Scrollverlust, ohne Weißblitzen. |
-| ![Format-Konvertierung](Project_Images/3_convert-formats.png) | ![PDF-Reader](Project_Images/4_pdf-view.png) |
-| Eigener 7-Format-Konverter mit einem gemeinsamen Block-Zwischenformat. | Layouterhaltender PDF-Reader mit Rekonstruktion von Überschriften, Listen & Tabellen. |
+| ![Markdown rendering](Project_Images/1_markdown-render.png) | ![Live editing](Project_Images/2_live-edit.png) |
+| Live Markdown rendering with TOC, diagrams, code and more. Right on the device. | Split view: type on the left, see the finished document on the right — no scroll loss, no white flash. |
+| ![Format conversion](Project_Images/3_convert-formats.png) | ![PDF viewer](Project_Images/4_pdf-view.png) |
+| Built-in 7-format converter using a shared block intermediate format. | Layout-preserving PDF viewer that reconstructs headings, lists and tables. |
 
-## Funktionen
+## Features
 
-- **Live-Editor mit Vorschau** — Render-Rückgabe austauschbar im Takt deiner Eingaben, Scrollposition und Zoom bleiben erhalten
-- **7-Format-Konverter** — `txt · md · html · csv · pdf · docx · xlsx` über ein gemeinsames Block-Zwischenformat, ohne Verlust beim Rundlauf
-- **Eigener PDF-Viewer** — Heuristik rekonstruiert Überschriften, Listen, Tabellen und Stil aus Glyphen-Positionen statt aus flachem Text; laufende Kopf-/Fußzeilen werden entfernt
-- **Volle Datei-Verwaltung** — Öffnen aus jedem Dateimanager (`content://` und `file://`), Rename/Delete per Longpress, Undo/Redo (100 Schritte)
-- **Robust gegen alles** — BOM-Erkennung, Encoding-Fehler, 16-MB-Leselimit, OOM-Sicherung, CSV-Formel-Neutralisierung
-- **Privatsphäre zuerst** — komplett offline, keine Berechtigungen über den Dateizugriff hinaus
+- **Live editor with preview** — rendered output updates as you type, scroll position and zoom are kept
+- **7-format converter** — `txt · md · html · csv · pdf · docx · xlsx` through a shared block intermediate format, lossless round trips
+- **Own PDF viewer** — a heuristic rebuilds headings, lists, tables and styling from glyph positions instead of flat text; running headers and footers are stripped
+- **Full file management** — open from any file manager (`content://` and `file://`), rename/delete via long-press, undo/redo (100 steps)
+- **Hardened against everything** — BOM detection, encoding errors, 16-MB read limit, OOM protection, CSV formula neutralization
+- **Privacy first** — fully offline, no permissions beyond file access
 
 ## Installation
 
-Lade die aktuelle **APK** aus den [Releases](../../releases). Mindestens **Android 8.0 (API 27)**, getestet auf **Android 14 (API 34)**.
+Download the current **APK** from the [Releases](../../releases). Requires at least **Android 8.0 (API 27)**, tested on **Android 14 (API 34)**.
 
-> **Hinweis:** Keine Play-Store-Version, keine Auto-Updates. Neue Versionen erscheinen hier als Release. Beim ersten Öffnen der APK musst du die Installation unbekannter Apps erlauben.
+> **Note:** No Play Store version, no auto-updates. New releases appear here. On first install you need to allow installing apps from unknown sources.
 
 ## Support
 
-- Probleme oder Wünsche? Öffne ein [Issue](../../issues).
+- Problems or feature requests? Open an [Issue](../../issues).
 
-## Datenschutz & Sicherheit
+## Privacy & Security
 
-- Kein Netzwerkzugriff, kein Tracking, keine Analysen.
-- Dateien werden ausschließlich auf dem Gerät verarbeitet.
-- Releases werden als signierte APK-Dateien veröffentlicht (Details im jeweiligen Release).
+- No network access, no tracking, no analytics.
+- Files are processed exclusively on the device.
+- Releases are published as signed APK files (details in each release).
 
 ---
 
-*Read & Convert wird als Closed-Source-App entwickelt. Es werden nur fertige APKs veröffentlicht.*
+*Read & Convert is developed as a closed-source app. Only finished APKs are published.*
