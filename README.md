@@ -62,7 +62,7 @@ This is **speech-to-text (STT)**: spoken audio becomes editable text. It is not 
 
 Download the latest signed **APK** from [Releases](https://github.com/NomeSame/MarkdownViewer-Releases/releases/latest). Requires **Android 8.1 (API 27)** or newer.
 
-Current release: **v1.1.0** (Android versionCode **2**). It uses the same signing key as v1.0.0 and can update the existing installation. Previous releases remain available.
+Current release: **v1.1.1** (Android versionCode **3**). It uses the same signing key as v1.0.0 and can update the existing installation. Previous releases remain available.
 
 There is no Play Store version or automatic updater. Install updates manually from this repository. Android may require allowing installation from the app used to open the APK.
 
@@ -76,7 +76,7 @@ There is no Play Store version or automatic updater. Install updates manually fr
 
 ## Validation and known limits
 
-The v1.1.0 release build, signature/alignment checks and **550 JVM unit tests** passed. Release lint reports no errors. The last complete device test run passed **204 tests on Android 13** on 4 October 2026. A fresh device run for the release was blocked by USB installation restrictions and was not repeated before publication.
+The v1.1.1 release build, signature/alignment checks and **554 JVM unit tests** passed. Release lint reports no errors. Targeted Android UI, model-picker and model-import regression tests passed on Android 13 during development. The last complete device suite passed **204 tests** on 4 October 2026; no additional full device suite was run for this version-only release build.
 
 Minimum-version device testing and manual acceptance of the progress indicators remain open. Dictation is experimental; document conversion does not promise lossless layout preservation.
 
