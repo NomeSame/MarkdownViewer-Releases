@@ -8,15 +8,32 @@ Read & Convert combines a Markdown editor with live preview, a PDF viewer and co
 
 The editor and dictation-settings screenshots show the updated interface. The Markdown, conversion and PDF images show an earlier version of those core features.
 
-| 1. Markdown rendering | 2. Live editing and dictation |
-|---|---|
-| <img src="Project_Images/1_markdown-render.png" alt="Markdown rendering" width="480"> | <img src="Project_Images/2_live-edit.png?v=20261007" alt="Live editing and dictation" width="480"> |
-| Rendered Markdown preview. | Preview above, text editor below, with Live / Record dictation controls and save. |
-
-| 3. Format conversion | 4. PDF viewer |
-|---|---|
-| <img src="Project_Images/3_convert-formats.png" alt="Format conversion" width="480"> | <img src="Project_Images/4_pdf-view.png" alt="PDF viewer" width="480"> |
-| Choose an output format for your document. | View PDF pages with zoom and navigation. |
+<table>
+  <tr>
+    <th width="50%">1. Markdown rendering</th>
+    <th width="50%">2. Live editing and dictation</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="Project_Images/1_markdown-render.png" alt="Markdown rendering" width="480"></td>
+    <td width="50%"><img src="Project_Images/2_live-edit.png?v=20261007" alt="Live editing and dictation" width="480"></td>
+  </tr>
+  <tr>
+    <td width="50%">Rendered Markdown preview.</td>
+    <td width="50%">Preview and editor with Live / Record dictation.</td>
+  </tr>
+  <tr>
+    <th width="50%">3. Format conversion</th>
+    <th width="50%">4. PDF viewer</th>
+  </tr>
+  <tr>
+    <td width="50%"><img src="Project_Images/3_convert-formats.png" alt="Format conversion" width="480"></td>
+    <td width="50%"><img src="Project_Images/4_pdf-view.png" alt="PDF viewer" width="480"></td>
+  </tr>
+  <tr>
+    <td width="50%">Choose an output format.</td>
+    <td width="50%">PDF pages with zoom and navigation.</td>
+  </tr>
+</table>
 
 ### 5. Dictation settings
 
