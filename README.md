@@ -6,29 +6,23 @@ Read & Convert combines a Markdown editor with live preview, a PDF viewer and co
 
 ## Screenshots
 
-The four images below show an earlier version. They illustrate the core document features; the editor image does not yet show the new dictation controls.
+The editor and dictation-settings screenshots show the updated interface. The Markdown, conversion and PDF images show an earlier version of those core features.
 
-| 1. Markdown rendering | 2. Live editing |
+| 1. Markdown rendering | 2. Live editing and dictation |
 |---|---|
-| ![Markdown rendering](Project_Images/1_markdown-render.png) | ![Live editing](Project_Images/2_live-edit.png) |
-| Rendered Markdown preview. | Edit below the preview, with undo/redo and save. |
+| ![Markdown rendering](Project_Images/1_markdown-render.png) | ![Live editing and dictation](Project_Images/2_live-edit.png) |
+| Rendered Markdown preview. | Preview above, text editor below, with Live / Record dictation controls and save. |
 
 | 3. Format conversion | 4. PDF viewer |
 |---|---|
 | ![Format conversion](Project_Images/3_convert-formats.png) | ![PDF viewer](Project_Images/4_pdf-view.png) |
 | Choose an output format for your document. | View PDF pages with zoom and navigation. |
 
-### 5. Dictation in the editor (screenshot pending)
+### 5. Dictation settings
 
-**Planned image:** `Project_Images/5_dictation-editor.png`
+![Dictation settings](Project_Images/5_dictation-settings.png)
 
-Show the editor with the microphone control, Live / Record mode selector and recognized text. This screenshot should make the experimental voice-to-text workflow visible.
-
-### 6. Dictation settings and Whisper model (screenshot pending)
-
-**Planned image:** `Project_Images/6_dictation-settings.png`
-
-Show language selection, the bundled/selected Whisper model, model import and benchmark controls. Replace these placeholders with real screenshots of the current app.
+Choose a recognition language and Whisper model, import a downloaded model and run a benchmark. Dictation is still a work in progress.
 
 ## Features
 
