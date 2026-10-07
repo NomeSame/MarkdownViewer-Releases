@@ -10,12 +10,12 @@ The editor and dictation-settings screenshots show the updated interface. The Ma
 
 | 1. Markdown rendering | 2. Live editing and dictation |
 |---|---|
-| ![Markdown rendering](Project_Images/1_markdown-render.png) | ![Live editing and dictation](Project_Images/2_live-edit.png?v=20261007) |
+| <img src="Project_Images/1_markdown-render.png" alt="Markdown rendering" width="480"> | <img src="Project_Images/2_live-edit.png?v=20261007" alt="Live editing and dictation" width="480"> |
 | Rendered Markdown preview. | Preview above, text editor below, with Live / Record dictation controls and save. |
 
 | 3. Format conversion | 4. PDF viewer |
 |---|---|
-| ![Format conversion](Project_Images/3_convert-formats.png) | ![PDF viewer](Project_Images/4_pdf-view.png) |
+| <img src="Project_Images/3_convert-formats.png" alt="Format conversion" width="480"> | <img src="Project_Images/4_pdf-view.png" alt="PDF viewer" width="480"> |
 | Choose an output format for your document. | View PDF pages with zoom and navigation. |
 
 ### 5. Dictation settings
